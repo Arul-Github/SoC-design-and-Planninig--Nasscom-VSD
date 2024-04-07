@@ -9,4 +9,13 @@ Commands for preparation step
 working area
 /Desktop/work/tools/openlane_working_dir/openlane
 here type docker
-
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/131994a2-d271-4d9a-8cdd-e666f13c5101)
+Need to add Packages 
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/d4b9731e-08c7-49b6-ab2d-afe0f69a8f9f)
+in another cmd window
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/ac9d0a64-bb2d-4a3e-8a95-208c20faefbf)
+then back to docker run synthesis command
+Syntrhesis was sucessful. 
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/61213765-df1f-4bd0-9f95-444ca7b479f4)
+Now check the runs folder inside the date file. synthesis results available in this folder.
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/25189fdd-1eec-40e3-ace1-4470d84c5165)
