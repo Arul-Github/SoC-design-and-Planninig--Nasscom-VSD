@@ -19,3 +19,7 @@ Syntrhesis was sucessful.
 ![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/61213765-df1f-4bd0-9f95-444ca7b479f4)
 Now check the runs folder inside the date file. synthesis results available in this folder.
 ![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/25189fdd-1eec-40e3-ace1-4470d84c5165)
+After synthesis. will do floor plan.
+Floor Plan: Arranging thr macros inside the work area.It consist of macroblocks and tapcells.
+run the command run_floorplan
+![image](https://github.com/Arul-Github/SoC-design-and-Planninig--Nasscom-VSD/assets/113671884/12305adf-f750-4ce2-9199-02a3770b2244)
